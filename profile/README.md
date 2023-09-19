@@ -1,6 +1,9 @@
 ## PROGETTO ADVICE CREDIT 👋
 Ambiente di sviluppo Amazon Developer 
-
+Parametri di creazione
+ADVICE CREDIT
+ADVICE LEGAL
+ADVICE GREEN
 <!--
 
 **Here are some ideas to get you started:**
